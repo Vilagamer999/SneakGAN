@@ -8,4 +8,5 @@ I trained StyleGAN2-ADA on a dataset of 2000+ sneaker images, this model was ins
 
 <br>
 ## Gallery
+
 ![Banner](https://github.com/Vilagamer999/SneakGAN/blob/main/banner.jpg?raw=true)
