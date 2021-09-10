@@ -6,7 +6,7 @@
 
 I trained StyleGAN2-ADA on a dataset of 2000+ sneaker images, this model was inspired by 98mprice's StyleGAN model and uses the same training data (repo link below)
 
-* [Notebook to Create your own sneakers](https://colab.research.google.com/github/Vilagamer999/SneakGAN/blob/main/files/SneakGAN%20generator.ipynb)
+* [Notebook to Create your own sneakers](https://colab.research.google.com/github/Vilagamer999/SneakGAN/blob/main/SneakGAN%20generator.ipynb)
 * [98mprice's StyleGAN sneaker model](https://github.com/98mprice/sneaker-generator)
 * [Download Model](https://github.com/Vilagamer999/SneakGAN/releases/download/v1.0/network-snapshot-sneakGAN-0000144.pkl)
 <hr>
