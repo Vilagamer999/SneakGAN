@@ -1,0 +1,19 @@
+body {
+  height: 100%; width: 100%;
+  background-image: url('https://raw.githubusercontent.com/Vilagamer999/SneakGAN/main/grid2.png');
+  background-repeat: repeat-x;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.center {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-75px 0 0 -135px;
+}
+
+div{
+  display:inline-block;
+  position:relative;
+}
